@@ -1,2 +1,2 @@
 # grand-sunrise
-Add a suffix to the woocommerce order number
+Add a suffix 'KCG-' to the woocommerce order number
